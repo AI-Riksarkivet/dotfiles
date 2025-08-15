@@ -2,7 +2,6 @@
     "workbench.colorTheme": "poimandres",
     "keyboard.layout": "0000041D",
     "workbench.sideBar.location": "right",
-    "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "top",
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
