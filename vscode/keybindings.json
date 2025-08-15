@@ -2,5 +2,10 @@
   {
     "key": "shift+enter",
     "command": "workbench.action.terminal.runSelectedText"
+  },
+  {
+    "key": "ctrl+'",
+    "command": "editor.action.commentLine",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
