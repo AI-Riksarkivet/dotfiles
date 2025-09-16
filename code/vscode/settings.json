@@ -13,8 +13,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "jetbrains-mono-nerd-font, 'JetBrains Mono NL', Consolas, 'Courier New', monospace",
     "window.title": "Riksarkivet IDE",
-    "marimo.host": "10.42.20.29",
-    "marimo.sandbox": true,
+    "marimo.host": "0.0.0.0",
     "marimo.telemetry": false,
     "marimo.watch": true,
     "workbench.startupEditor": "readme"
