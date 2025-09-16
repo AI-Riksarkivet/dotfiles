@@ -8,14 +8,14 @@
     "editor.wordWrap": "on",
     "chat.commandCenter.enabled": false,
     "workbench.navigationControl.enabled": false,
-    "window.menuBarVisibility": "compact"
+    "window.menuBarVisibility": "compact",
     "workbench.layoutControl.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "jetbrains-mono-nerd-font, 'JetBrains Mono NL', Consolas, 'Courier New', monospace",
     "window.title": "Riksarkivet IDE",
-    "recommendations": [
-        "astral-sh.ty",
-        "4ops.terraform"
-    ],
-    "workbench.startupEditor": "terminal"
+    "marimo.host": "10.42.20.29",
+    "marimo.sandbox": true,
+    "marimo.telemetry": false,
+    "marimo.watch": true,
+    "workbench.startupEditor": "readme"
   }
