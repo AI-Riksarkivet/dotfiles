@@ -2,18 +2,20 @@
     "keyboard.layout": "0000041D",
     "workbench.sideBar.location": "right",
     "workbench.activityBar.location": "top",
+    "workbench.startupEditor": "readme"
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.navigationControl.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.wordWrap": "on",
     "chat.commandCenter.enabled": false,
-    "workbench.navigationControl.enabled": false,
     "window.menuBarVisibility": "compact",
-    "workbench.layoutControl.enabled": false,
-    "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "jetbrains-mono-nerd-font, 'JetBrains Mono NL', Consolas, 'Courier New', monospace",
     "window.title": "Riksarkivet IDE",
     "marimo.host": "0.0.0.0",
     "marimo.telemetry": false,
     "marimo.watch": true,
-    "workbench.startupEditor": "readme"
+    "python.languageServer": "None"
   }
