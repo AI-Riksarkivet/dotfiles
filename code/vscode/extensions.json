@@ -2,11 +2,13 @@
   "recommendations": [
     "ms-python.python",
     "golang.Go",
+    "Anthropic.claude-code",
     "fowind.material-icon-theme-with-jb-nf",
     "charliermarsh.ruff",
     "marimo-team.vscode-marimo",
     "redhat.vscode-yaml",
     "tamasfe.even-better-toml",
-    "ms-ossdata.vscode-pgsql"
+    "ms-ossdata.vscode-pgsql",
+    "astral-sh.ty"
   ]
 }
