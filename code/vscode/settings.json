@@ -2,7 +2,7 @@
     "keyboard.layout": "0000041D",
     "workbench.sideBar.location": "right",
     "workbench.activityBar.location": "top",
-    "workbench.startupEditor": "readme"
+    "workbench.startupEditor": "readme",
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.navigationControl.enabled": false,
     "workbench.layoutControl.enabled": false,
@@ -17,5 +17,6 @@
     "marimo.host": "0.0.0.0",
     "marimo.telemetry": false,
     "marimo.watch": true,
-    "python.languageServer": "None"
+    "python.languageServer": "None",
+    "chat.commandCenter.enabled" : false
   }
