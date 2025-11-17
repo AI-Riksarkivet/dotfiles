@@ -10,6 +10,7 @@
     "tamasfe.even-better-toml",
     "ms-ossdata.vscode-pgsql",
     "bierner.markdown-mermaid",
-    "astral-sh.ty"
+    "astral-sh.ty",
+    "pomdtr.excalidraw-editor"
   ]
 }
