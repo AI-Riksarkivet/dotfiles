@@ -5,12 +5,14 @@
     "Anthropic.claude-code",
     //"fowind.material-icon-theme-with-jb-nf",
     "charliermarsh.ruff",
-    "marimo-team.vscode-marimo",
     "redhat.vscode-yaml",
     "tamasfe.even-better-toml",
     "ms-ossdata.vscode-pgsql",
     "bierner.markdown-mermaid",
     "astral-sh.ty",
-    "pomdtr.excalidraw-editor"
+    "pomdtr.excalidraw-editor",
+    "PKief.material-icon-theme",
+    "svelte.svelte-vscode",
+    "denoland.vscode-deno"
   ]
 }
