@@ -10,13 +10,10 @@
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.wordWrap": "on",
-    "editor.fontFamily": "jetbrains-mono-nerd-font, 'JetBrains Mono NL', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "JetBrainsMono Nerd Font, 'Courier New', monospace",
     "chat.commandCenter.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.title": "Riksarkivet IDE",
-    "marimo.host": "0.0.0.0",
-    "marimo.telemetry": false,
-    "marimo.watch": true,
     "python.languageServer": "None",
     "chat.commandCenter.enabled" : false
   }
