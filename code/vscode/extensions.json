@@ -13,6 +13,7 @@
     "pomdtr.excalidraw-editor",
     "PKief.material-icon-theme",
     "svelte.svelte-vscode",
-    "denoland.vscode-deno"
+    "denoland.vscode-deno",
+    "ms-playwright.playwright"
   ]
 }
